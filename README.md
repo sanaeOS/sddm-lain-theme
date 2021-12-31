@@ -1,0 +1,1 @@
+# sddm-wired-lain-theme-custom
