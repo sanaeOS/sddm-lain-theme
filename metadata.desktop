@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Navi
+Description=Inspired by fauux.neocities.org
+Author=sanae
+Copyright=(c) 2021, Sanae, (c) 2021
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.9.1
+Website=https://github.com/sanaeOS/sddm-wired-lain-theme-custom
+Screenshot=screenshot.png
+MainScript=Main.qml
+Theme-Id=navi
+Theme-API=2.0
