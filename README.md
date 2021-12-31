@@ -1,3 +1,5 @@
+Original: https://gitlab.com/mixedCase/sddm-lain-wired-theme
+
 Changes
 - edited for 1360x768 resolution
 - replaced background music
